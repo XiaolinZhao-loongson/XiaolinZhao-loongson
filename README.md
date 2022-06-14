@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XiaolinZhao-loongson
+- 👋 Hi, I’m @Xiaolin Zhao
 - 👀 I’m interested in Compiler
 - 🌱 I’m currently learning LuaJIT
 - 📫 reach me: zhaoxiaolin@loongson.cn
